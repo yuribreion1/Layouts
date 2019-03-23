@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="escolha_o_seu_layout">Escolha o seu Layout:</string>
+    <string name="abrir_linearlayout">Abrir LinearLayout</string>
+    <string name="abrir_relativelayout">Abrir RelativeLayout</string>
+    <string name="abrir_absolutelayout">Abrir AbsoluteLayout</string>
+    <string name="abrir_framelayout">Abrir FrameLayout</string>
+    <string name="esta_activity_usa_linear_layout">Esta Activity já utiliza LinearLayout</string>
+    <string name="estou_no_final_da_tela">Estou no final da tela</string>
+    <string name="estou_no_canto_direito_superior">Estou no canto direito superior</string>
+    <string name="estou_no_meio">Estou no meio</string>
+    <string name="estou_em_uma_posi_o_absoluta">Estou em uma posição absoluta</string>
+    <string name="logar">Logar</string>
+    <string name="usuario">Digite seu usuário</string>
+    <string name="senha">Digite a sua senha</string>
+</resources>
